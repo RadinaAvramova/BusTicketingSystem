@@ -1,4 +1,4 @@
-# Bus-Ticketing-System-Java-Jsp-project
+# Bus Ticketing System
 Java, JSP and MySQL Project on Bus Ticket Booking System
 <h1>Project Demo</h1>
 
